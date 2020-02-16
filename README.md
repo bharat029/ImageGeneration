@@ -27,4 +27,9 @@ image, associated with a label from 10 classes.
 
 
 
+➔ We have considered two models under this project:
+1. VAN - Variational Autoencoders
+2. GAN - Generative Adverse
+
+
 
